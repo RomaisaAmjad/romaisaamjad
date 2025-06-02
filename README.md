@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Romaisa Amjad 👋</h1>
-<h3 align="center">🎯 Software Engineer Intern | 💻 Web Developer | 🎨 Canva Designer</h3>
+<h3 align="center">🎯 Software Engineer Intern | 💻 Web Developer | 🎨 Visual Content Designer</h3>
 
 ---
 
@@ -34,10 +34,10 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/romaisa-amjad-40608a297)
 - 🐦 [Twitter (X)](https://x.com/AmjadRomai93621)
+- 📧 Gmail: **iromaisa.22@gmail.com**
 
 ---
 
 ### 💡 Fun Fact
 
 > I blend design and development to build things that are not only functional but also visually beautiful! ✨
-
