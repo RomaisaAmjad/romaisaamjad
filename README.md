@@ -34,7 +34,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/romaisa-amjad-40608a297)
 - 🐦 [Twitter (X)](https://x.com/AmjadRomai93621)
-- 📧 Gmail: **iromaisa.22@gmail.com**
+- 📧 [Gmail](mailto:iromaisa.22@gmail.com)
 
 ---
 
