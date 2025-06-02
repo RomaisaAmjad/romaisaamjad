@@ -1,7 +1,8 @@
 <h1 align="center">
-  Hi there, I'm Romaisa Amjad 👋
-  <img src="https://flagcdn.com/w20/ps.png" alt="Palestine" />
-  <img src="https://flagcdn.com/w20/pk.png" alt="Pakistan" />
+  Hi there, I'm Romaisa Amjad 
+  <img src="https://flagcdn.com/w40/ps.png" alt="Palestine" />
+  <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" />
+  👋
 </h1>
 
 <h3 align="center">🎯 Software Engineer Intern | 💻 Web Developer | 🎨 Visual Content Designer</h3>
