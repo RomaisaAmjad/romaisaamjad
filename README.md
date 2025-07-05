@@ -5,7 +5,7 @@
   👋
 </h1>
 
-<h3 align="center">🎯 Software Engineer Intern | 💻 Web Developer | 🎨 Canva Designer</h3>
+<h3 align="center">🎯 Software Engineer Intern | MERN Stack developer</h3>
 
 ---
 
