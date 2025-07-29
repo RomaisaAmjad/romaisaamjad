@@ -29,6 +29,9 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Mantine](https://img.shields.io/badge/-Mantine-339AF0?style=flat&logo=mantine&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-FF69B4?style=flat)
+
 
 
 ---
