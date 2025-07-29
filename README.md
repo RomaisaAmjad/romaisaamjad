@@ -26,6 +26,10 @@
 ![Picsart](https://img.shields.io/badge/-Picsart-FF6F61?style=flat&logo=picsart&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+
 
 ---
 
