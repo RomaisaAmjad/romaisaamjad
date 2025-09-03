@@ -5,7 +5,7 @@
   👋
 </h1>
 
-<h3 align="center">🎯 Software Engineer Intern | MERN Stack developer</h3>
+<h3 align="center">🎯 Canva Graphic Designer | MERN Stack developer</h3>
 
 ---
 
@@ -54,7 +54,3 @@
 - 📧 [Gmail](mailto:iromaisa.22@gmail.com)
 
 ---
-
-### 💡 Fun Fact
-
-> I blend design and development to build things that are not only functional but also visually beautiful! ✨
