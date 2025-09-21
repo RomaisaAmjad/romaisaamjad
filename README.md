@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hry, I'm Romaisa Amjad 
+  Hey there, I'm Romaisa Amjad 
   <img src="https://flagcdn.com/w40/ps.png" alt="Palestine" />
   <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" />
 </h1>
