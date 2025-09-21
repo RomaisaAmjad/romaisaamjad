@@ -1,8 +1,7 @@
 <h1 align="center">
-  Hi there, I'm Romaisa Amjad 
+  Hry, I'm Romaisa Amjad 
   <img src="https://flagcdn.com/w40/ps.png" alt="Palestine" />
   <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" />
-  👋
 </h1>
 
 <h3 align="center">MERN Stack Developer</h3>
