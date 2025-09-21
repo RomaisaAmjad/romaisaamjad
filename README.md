@@ -8,7 +8,7 @@
 
 ---
 
-🌟 I'm passionate about designing with Canva and building modern web applications using the latest frontend technologies. Always eager to learn, grow, and contribute to exciting tech communities!
+🌟 I'm passionate about building modern web applications using the latest frontend and backend technologies. Always eager to learn, grow, and contribute to exciting tech communities!
 
 ---
 
