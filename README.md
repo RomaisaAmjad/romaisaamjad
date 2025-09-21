@@ -5,7 +5,7 @@
   👋
 </h1>
 
-<h3 align="center">🎯 Canva Graphic Designer | MERN Stack developer</h3>
+<h3 align="center">MERN Stack developer</h3>
 
 ---
 
