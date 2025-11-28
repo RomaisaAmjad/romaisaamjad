@@ -4,11 +4,12 @@
   <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan" />
 </h1>
 
+
 <h3 align="center">MERN Stack Developer</h3>
 
 ---
 
-🌟 I'm passionate about building modern web applications using the latest frontend and backend technologies. Always eager to learn, grow, and contribute to exciting tech communities!
+ I'm passionate about building modern web applications using the latest frontend and backend technologies. Always eager to learn, grow, and contribute to exciting tech communities!
 
 ---
 
