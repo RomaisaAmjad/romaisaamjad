@@ -39,8 +39,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romaisaamjad&show_icons=true&theme=tokyonight" alt="Romaisa's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaisaamjad&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br>
   <img src="https://streak-stats.demolab.com?user=romaisaamjad&theme=tokyonight" alt="GitHub Streak" />
 </p>
