@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" size="40">
   Hey, I'm <b>Romaisa Amjad</b>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
   <br/>
@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=30&duration=2000&pause=1000&color=f5a505&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Building+Modern+Web+Apps;Always+Learning+%26+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=28&duration=2000&pause=1000&color=f5a505&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Building+Modern+Web+Apps;Always+Learning+%26+Growing" />
 </p>
 
 ---
