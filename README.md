@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey there, I'm <b>Romaisa Amjad</b> 
+  Hey there, I'm <b>Romaisa Amjad</b>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>
   <br/>
   <img src="https://flagcdn.com/w40/ps.png" alt="Palestine"/>
@@ -7,9 +7,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2000&pause=1000&color=c26508&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Building+Modern+Web+Apps;Always+Learning+%26+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=32&duration=2000&pause=1000&color=ebd80c&center=true&vCenter=true&width=800&lines=MERN+Stack+Developer;Frontend+%26+Backend+Enthusiast;Building+Modern+Web+Apps;Always+Learning+%26+Growing" />
 </p>
-
 
 <p align="center">
   <i>Building modern, scalable, and user-friendly web applications</i>
@@ -59,12 +58,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romaisaamjad&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romaisaamjad&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=romaisaamjad&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=romaisaamjad&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaisaamjad&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
