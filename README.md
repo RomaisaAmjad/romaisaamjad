@@ -1,23 +1,30 @@
 <h1 align="center">
-  Hey, I'm <b>Romaisa Amjad</b>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px"/>
+  Hi, I'm <b>Romaisa Amjad</b>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/>
   <br/>
-  <img src="https://flagcdn.com/w40/ps.png" alt="Palestine"/>
-  <img src="https://flagcdn.com/w40/pk.png" alt="Pakistan"/>
+  <img src="https://flagcdn.com/w40/ps.png" />
+  <img src="https://flagcdn.com/w40/pk.png" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=2000&pause=900&color=F5A505&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;Frontend+%26+Backend+Engineer;Building+Modern+Scalable+Web+Apps;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=2000&pause=900&color=F5A505&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Modern+Scalable+Web+Apps;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
-## 🌟 About Me  
+## 👩‍💻 Professional Summary
 
-👩‍💻 **Full-Stack Web Developer (MERN)**  
-🚀 Passionate about building **modern, scalable & performant web applications**  
-🎨 Strong focus on **clean UI, UX & best practices**  
-🤝 Love collaborating, learning & contributing to the tech community  
+Full-stack MERN developer focused on building scalable, high-performance web applications with clean UI, maintainable backend architecture, and modern development practices.
+
+---
+
+## 💡 Core Strengths
+
+- Building responsive, accessible, and user-focused interfaces  
+- Designing RESTful APIs and scalable backend systems  
+- Writing clean, maintainable, and reusable code  
+- Performance optimization & best practices  
+- Strong problem-solving and debugging skills  
 
 ---
 
@@ -29,7 +36,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine)
 ![Shadcn](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge)
@@ -52,18 +59,13 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Focusing On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romaisaamjad&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=romaisaamjad&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+- Advanced MERN architecture patterns  
+- Authentication & authorization (JWT, RBAC)  
+- Backend performance & scalability  
+- Writing production-ready code  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romaisaamjad&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 📬 Connect With Me
 
@@ -80,10 +82,4 @@
   <a href="https://romaisaamjad.me">
     <img src="https://img.shields.io/badge/Portfolio-F5A505?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  ✨ <i>“Code. Create. Improve. Repeat.”</i> ✨
 </p>
