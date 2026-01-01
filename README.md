@@ -12,13 +12,13 @@
 
 ---
 
-## 👩‍💻 Professional Summary
+## Professional Summary
 
 Full-stack MERN developer focused on building scalable, high-performance web applications with clean UI, maintainable backend architecture, and modern development practices.
 
 ---
 
-## 💡 Core Strengths
+## Core Strengths
 
 - Building responsive, accessible, and user-focused interfaces  
 - Designing RESTful APIs and scalable backend systems  
@@ -27,7 +27,7 @@ Full-stack MERN developer focused on building scalable, high-performance web app
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,7 +58,7 @@ Full-stack MERN developer focused on building scalable, high-performance web app
 
 ---
 
-## 📚 Currently Focusing On
+## Currently Focusing On
 
 - Advanced MERN architecture patterns  
 - Authentication & authorization (JWT, RBAC)  
@@ -66,7 +66,7 @@ Full-stack MERN developer focused on building scalable, high-performance web app
 - Writing production-ready code  
 
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/romaisa-amjad-40608a297">
