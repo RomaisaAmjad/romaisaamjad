@@ -29,7 +29,7 @@ Full-stack MERN developer focused on building scalable, high-performance web app
 
 ##  Tech Stack
 
-### 🎨 Frontend
+### Frontend
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -40,19 +40,19 @@ Full-stack MERN developer focused on building scalable, high-performance web app
 ![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=for-the-badge&logo=mantine)
 ![Shadcn](https://img.shields.io/badge/Shadcn/UI-000000?style=for-the-badge)
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🧠 Programming & Tools
+###  Programming & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=mathworks)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro)
 
-### 🎨 Design
+### Design
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva)
 ![Picsart](https://img.shields.io/badge/Picsart-FF6F61?style=for-the-badge)
 
