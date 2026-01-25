@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=26&duration=2000&pause=900&color=F5A505&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Modern+Scalable+Web+Apps;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=2000&pause=900&color=3865eb&center=true&vCenter=true&width=850&lines=Full-Stack+MERN+Developer;Frontend+%26+Backend+Engineer;Building+Modern+Scalable+Web+Apps;Always+Learning+%26+Improving" />
 </p>
 
 ---
