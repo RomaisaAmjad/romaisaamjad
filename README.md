@@ -18,15 +18,6 @@ Full-stack MERN developer focused on building scalable, high-performance web app
 
 ---
 
-## Core Strengths
-
-- Building responsive, accessible, and user-focused interfaces  
-- Designing RESTful APIs and scalable backend systems  
-- Writing clean, maintainable, and reusable code  
-- Performance optimization & best practices   
-
----
-
 ##  Tech Stack
 
 ### Frontend
