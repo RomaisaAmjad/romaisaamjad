@@ -9,7 +9,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=f7f5f5&center=true&vCenter=true&width=850&lines=Computer+Systems+Engineer;Full-Stack+Developer;Designing+and+Building+Systems+End+to+End;" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&duration=3000&pause=1000&color=4e8a5a&center=true&vCenter=true&width=850&lines=Computer+Systems+Engineer;Full-Stack+Developer;Designing+and+Building+Systems+End+to+End;" />
 
 <br/>
 
