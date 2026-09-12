@@ -8,9 +8,9 @@
 <img src="https://flagcdn.com/w40/pk.png" />
 
 <br/>
-
+<br/>
 <img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=24&duration=3000&pause=1000&color=3E82E8&center=true&vCenter=true&width=850&lines=Owning+Products+from+Architecture+to+Delivery;Building+Scalable+Systems+from+Scratch;" />
-
+<br/>
 <br/> 
 
 <a href="https://www.linkedin.com/in/romaisa-amjad-40608a297">
