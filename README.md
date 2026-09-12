@@ -138,6 +138,4 @@ currently: "Leading feature builds end-to-end; architecture, backend, and UI"
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E82E8,50:4149B4,100:112E81&height=100&section=footer" />
-
 </div>
